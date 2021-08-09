@@ -1,2 +1,2 @@
-# ML-1-12B13
+# Second_Hand_Car_Price_Prediction
 Repository for Verzeo ML major project
