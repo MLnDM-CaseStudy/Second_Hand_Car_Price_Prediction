@@ -1,2 +1,2 @@
 # Second_Hand_Car_Price_Prediction
-Repository for Verzeo ML major project
+Repository for Second Hand Car Price Prediction project
