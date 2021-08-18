@@ -5,3 +5,5 @@
 
 #### (i) Jupyter Notebook / Google Colab
 #### (ii) SK-Learn
+#### (iii) Tensforflow-CPU 
+#### (iv) Keras (Lower level API on top of Tensorflow)
